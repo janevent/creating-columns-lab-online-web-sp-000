@@ -48,12 +48,8 @@ img:hover {
 
 
 .column {
-  /*display: grid;*/
   display: inline-block;
   width: 30%;
-  /* grid-template-columns: 1fr 1fr 1fr;*/
-  
-  
 }
 
 .small {
